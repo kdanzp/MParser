@@ -1,0 +1,6 @@
+D:\2 Zenno Конкурсы\12 конкурс шаблонов\Mvideo\MvideoParser\MvideoParser\bin\Debug\MvideoParser.dll
+D:\2 Zenno Конкурсы\12 конкурс шаблонов\Mvideo\MvideoParser\MvideoParser\bin\Debug\MvideoParser.pdb
+D:\2 Zenno Конкурсы\12 конкурс шаблонов\Mvideo\MvideoParser\MvideoParser\obj\Debug\MvideoParser.csproj.AssemblyReference.cache
+D:\2 Zenno Конкурсы\12 конкурс шаблонов\Mvideo\MvideoParser\MvideoParser\obj\Debug\MvideoParser.csproj.CoreCompileInputs.cache
+D:\2 Zenno Конкурсы\12 конкурс шаблонов\Mvideo\MvideoParser\MvideoParser\obj\Debug\MvideoParser.dll
+D:\2 Zenno Конкурсы\12 конкурс шаблонов\Mvideo\MvideoParser\MvideoParser\obj\Debug\MvideoParser.pdb
